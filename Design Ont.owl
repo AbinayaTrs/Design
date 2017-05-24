@@ -1,0 +1,1434 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#"
+     xml:base="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:Is="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Is/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:untitled-ontology-19="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#AdaptsTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#AdaptsTo"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Addresses -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Addresses"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Among -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Among"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#AsA -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#AsA"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanAllowExchangeOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanAllowExchangeOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBe"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeAnalyzedWith -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeAnalyzedWith"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeDoneUsing -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeDoneUsing"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeIn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanBeIn"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanProhibitExchangeOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanProhibitExchangeOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanShow -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CanShow"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DependsOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DependsOn"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DiffersFrom -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DiffersFrom"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Has -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Has"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#HasToBe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#HasToBe"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Helps -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Helps"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#In -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#In"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsA -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsA"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAFunctionOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAFunctionOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAffectedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAffectedBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAnExampleOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsAnExampleOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsPartOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsPartOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsPreceededBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsPreceededBy">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsSucceededBy"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsRelatedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsRelatedTo">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#SymmetricProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsStartingPtFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsStartingPtFor"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsSucceededBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsSucceededBy"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsTheResultOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsTheResultOf"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsUsedFor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IsUsedFor"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Of -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Of"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Satisfies -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Satisfies"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Treats -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Treats"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#With -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#With"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#uses -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#uses"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Is/AreMappedTo -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Is/AreMappedTo"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Definition -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Definition">
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Example -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Example"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Methodology -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Methodology"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesAI"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesST"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Ethnography -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Ethnography">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsAI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsAI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesAI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesAI"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesST -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesST"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Abduction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Abduction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptation"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Augmentation"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Automation"/>
+        <IsUsedFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptDesign"/>
+        <IsUsedFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DesignSynthesis"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ActorNetworkTheory -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ActorNetworkTheory">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Abduction"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Augmentation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptive -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptive">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alligned -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alligned">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alterables -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alterables">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Is:AreMappedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Constraints"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ArtificialNeuralNetworks -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ArtificialNeuralNetworks">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NeuralNetwork"/>
+        <uses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NeuralNetwork"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Augmentation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Augmentation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Abduction"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptation"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Automation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Automation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Automation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Abduction"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Behaviour -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Behaviour">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Boundary -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Boundary">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanAllowExchangeOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Matter-Energy-Information"/>
+        <CanProhibitExchangeOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Matter-Energy-Information"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ClosedSystem -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ClosedSystem">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#OpenSystem"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Adaptive"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cooperative"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Reactive"/>
+        <CanShow rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Automation"/>
+        <CanShow rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Human-likeInteraction"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complexity -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complexity">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <DiffersFrom rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System"/>
+        <IsTheResultOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interaction"/>
+        <Treats rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Whole"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Concentrated -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Concentrated">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Concept -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Concept"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptDesign -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptDesign">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptEvaluation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptEvaluation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Conflict -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Conflict">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Conflicting -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Conflicting">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Connexitic -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Connexitic">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Connexitic"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Symmetric"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Transitive"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Constraints -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Constraints">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cooperative -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cooperative">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CorrelationType -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CorrelationType">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CustomerNeeds -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CustomerNeeds">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cybernetics -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cybernetics">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesAI"/>
+        <uses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Feedback"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DataCollectionMethod -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DataCollectionMethod">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deduction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deduction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsUsedFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DetailDesign"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Dependent -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Dependent">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Design -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Design">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Develop/Manufacture"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DesignSynthesis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DesignSynthesis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DetailDesign -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DetailDesign">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diagnosis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diagnosis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBeDoneUsing rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cybernetics"/>
+        <CanBeDoneUsing rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NetworkAnalysis"/>
+        <CanBeDoneUsing rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SNAC"/>
+        <CanBeDoneUsing rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#StakeholderAnalysis"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzyFrontEnd"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Design"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzyFrontEnd"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diagnosis"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery_Matrix -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery_Matrix">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#DataCollectionMethod"/>
+        <IsStartingPtFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diagnosis"/>
+        <IsUsedFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ProblemDescriptiom"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diverse -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diverse">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EmergentProperty -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EmergentProperty">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <In rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complexity"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Enrolment -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Enrolment">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Ethnography -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Ethnography">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EvolutionaryComputation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EvolutionaryComputation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Feedback -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Feedback">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Negative"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Positive"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#PrincipleOfComplexity"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Cybernetics"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Addresses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CustomerNeeds"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Functionalism -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Functionalism">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Fundamental -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Fundamental">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzyFrontEnd -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzyFrontEnd">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Design"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Diagnosis"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deploy/Operate"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Develop/Manufacture"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzySystems -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzySystems">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Gesture -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Gesture">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interactionism"/>
+        <Definition>Sociology Session 5 (61:06 - 64:48)</Definition>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Goal -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Goal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Purpose"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBeAnalyzedWith rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ISM"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ISM"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Human-likeInteraction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Human-likeInteraction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <CanBeAnalyzedWith rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Metaphor"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#I-We -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#I-We">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ISM -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ISM">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Technique"/>
+        <Needs rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy"/>
+        <uses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Improv -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Improv">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Induction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Induction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <IsUsedFor rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptEvaluation"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <CanBeIn rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Network"/>
+        <CanBeIn rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Product"/>
+        <DependsOn rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function"/>
+        <DependsOn rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IntelligentProduct"/>
+        <Definition>DIS Session 2 - 33:30 to 38:15</Definition>
+        <Example>DIS Session 2- 38:15 to 39:08</Example>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IntelligentProduct -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#IntelligentProduct">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <owl:sameAs rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SmartProduct"/>
+        <AdaptsTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment"/>
+        <AdaptsTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Goal"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence"/>
+        <HasToBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems"/>
+        <IsAnExampleOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence"/>
+        <Example>DIS Session 2 - 38:15 to 39:08</Example>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interaction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interaction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+        <Among rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#InteractionRitual -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#InteractionRitual">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+        <IsRelatedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#I-We"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interactionism -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interactionism">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#LSM -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#LSM">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsAI"/>
+        <IsAnExampleOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#VSM"/>
+        <uses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Metaphor"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Level -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Level">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <In rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Listen -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Listen">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Matter-Energy-Information -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Matter-Energy-Information">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <With rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Metaphor -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Metaphor">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NK-Model -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NK-Model">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NPD -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NPD">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#FuzzyFrontEnd"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Fundamental"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Operational"/>
+        <Is:AreMappedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alterables"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Negative -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Negative">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Network -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Network">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NetworkAnalysis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NetworkAnalysis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NeuralNetwork -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#NeuralNetwork">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesAI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Observe -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Observe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#OpenSystem -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#OpenSystem">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Operational -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Operational">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Parts -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Parts">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Personality -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Personality">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <CanShow rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Personality"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#PointsOfPassage -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#PointsOfPassage">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Positive -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Positive">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#PrincipleOfComplexity -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#PrincipleOfComplexity">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ProblemDescriptiom -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ProblemDescriptiom">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Product -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Product">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Behaviour"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System"/>
+        <Satisfies rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Purpose -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Purpose">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Reactive -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Reactive">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Reflect -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Reflect">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Relation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Relation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Connexitic"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#CorrelationType"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Dependent"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Symmetric"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Transitive"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Response -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Response">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interactionism"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Rhetoric-Responsive -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Rhetoric-Responsive">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Interactionism"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RichPictures -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RichPictures">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RuleBasedExpertSystems -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RuleBasedExpertSystems">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesAI"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RulesOrPrinciples -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#RulesOrPrinciples">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SNAC -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SNAC">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alterables"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Constraints"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Semiotics -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Semiotics">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TheoriesSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Simple -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Simple">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SmartProduct -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#SmartProduct">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsAI"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Intelligence"/>
+        <Example>DIS Session 2 - 38:15 to 39:08</Example>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Social-Meaning-Action -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Social-Meaning-Action">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems"/>
+        <IsAffectedBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Product"/>
+        <Is:AreMappedTo rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#StakeholderAnalysis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#StakeholderAnalysis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#TechniquesST"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Alterables"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Constraints"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Symmetric -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Symmetric">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#System">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ClosedSystem"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#OpenSystem"/>
+        <CanBe rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Simple"/>
+        <DiffersFrom rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complexity"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Environment"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Feedback"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Parts"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Relation"/>
+        <IsAFunctionOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Parts"/>
+        <IsAFunctionOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Relation"/>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems"/>
+        <Treats rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Whole"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Technique -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Technique"/>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Transitive -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Transitive">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Translation -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Translation">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptSocio"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#VSM -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#VSM">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#MethodsAI"/>
+        <IsAnExampleOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Complex_Systems"/>
+        <IsPreceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#LSM"/>
+        <uses rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Heirarchy"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Whole -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Whole">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <AsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EmergentProperty"/>
+        <AsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Level"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#EmergentProperty"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Level"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deploy/Operate -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deploy/Operate">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Discovery"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Develop/Manufacture -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Develop/Manufacture">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsSucceededBy rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Deploy/Operate"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Needs/Problems">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <Of rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#User/Customer"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#User/Customer -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#User/Customer">
+        <rdf:type rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ConceptsST"/>
+        <IsA rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Stakeholder"/>
+        <Needs rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Product"/>
+    </owl:NamedIndividual>
+    <rdf:Description rdf:nodeID="_:genid1">
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Behaviour"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function"/>
+    </rdf:Description>
+    <rdf:Description rdf:nodeID="_:genid2">
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Behaviour"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Function"/>
+        <Has rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#Structure"/>
+        <Definition></Definition>
+    </rdf:Description>
+    <rdf:Description>
+        <IsPartOf rdf:resource="http://www.semanticweb.org/admin/ontologies/2017/4/untitled-ontology-19#ISM"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
